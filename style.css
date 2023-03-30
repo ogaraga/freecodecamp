@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(pic-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#survey-form{
+    background-color: rgba(162, 0, 255, 0.329);
+    margin: 30px;
+    padding: 50px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 25px;
+
+}
+
+#name{
+    padding: 10px 290px 10px 0px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-indent: 10px;
+}
+
+#email{
+    padding: 10px 290px 10px 0px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-indent: 10px;
+}
+
+#number{
+    padding: 10px 400px 10px 0px;
+    text-align: justify;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-indent: 10px;
+
+    
+}
+
+#dropdown1{
+    padding: 10px 300px 10px 0px;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    text-indent: 10px;
+
+
+}
+
+#dropdown2{
+    padding: 10px 330px 10px 0px;
+    text-indent: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+
+}
+
+#submit{
+    text-align: center;
+    padding: 10px 206px 10px 206px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+#title, #description{
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 15px;
+}
+#description{
+    font-size: 25px;
+    font-style: italic;
+}
+#title{
+    font-size: 40px;
+}
+#comment{
+    text-indent: 10px;
+}
